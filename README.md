@@ -1,6 +1,6 @@
-# ProyectoKaggle-Modelos1 - Entrega 1
+# Entrega 1
 
-## Información del Equipo
+## Integrantes
 
 | Nombre | Cédula | Programa |
 |--------|--------|----------|
