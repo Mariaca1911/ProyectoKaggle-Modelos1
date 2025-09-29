@@ -1,4 +1,4 @@
-# ProyectoKaggle-Modelos1 - Entrega 1
+# Entrega 1
 
 ## Integrantes
 
